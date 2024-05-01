@@ -1,0 +1,42 @@
+/* General styles for the document */
+body {
+    font-family: Arial, sans-serif; /* Sets a clean, readable font */
+    line-height: 1.6; /* Adds a bit of space between lines for better readability */
+    margin: 20px; /* Adds some margin around the content */
+}
+
+h1, h2 {
+    font-weight: normal; /* Makes all heading font weights normal */
+}
+
+/* Styles specific to color titles */
+.color-title {
+    margin-top: 20px; /* Adds space above each color title */
+    margin-bottom: 10px; /* Adds space below each color title */
+}
+
+#red {
+    color: red; /* Styles the text 'Rojo' in red */
+}
+
+#blue {
+    color: blue; /* Styles the text 'Azul' in blue */
+}
+
+#orange {
+    color: orange; /* Styles the text 'Anaranjado' in orange */
+}
+
+#green {
+    color: green; /* Styles the text 'Verde' in green */
+}
+
+#yellow {
+    color: yellow; /* Styles the text 'Amarillo' in yellow */
+}
+
+/* Image styles */
+img {
+    width: 200px; /* Sets the width of all images to 200px */
+    height: 200px; /* Sets the height of all images to 200px */
+}
